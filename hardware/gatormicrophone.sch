@@ -13035,6 +13035,186 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="0.298" y="0.427"/>
 </polygon>
 </package>
+<package name="SEF_LOGO_FLAME_INTERNAL_.1">
+<polygon width="0.0762" layer="15">
+<vertex x="0.557" y="0.839"/>
+<vertex x="0.557" y="0.749"/>
+<vertex x="0.547" y="0.719"/>
+<vertex x="0.537" y="0.699"/>
+<vertex x="0.507" y="0.669"/>
+<vertex x="0.477" y="0.659"/>
+<vertex x="0.447" y="0.659"/>
+<vertex x="0.367" y="0.679"/>
+<vertex x="0.327" y="0.699"/>
+<vertex x="0.297" y="0.719"/>
+<vertex x="0.257" y="0.749"/>
+<vertex x="0.197" y="0.809"/>
+<vertex x="0.157" y="0.869"/>
+<vertex x="0.147" y="0.909"/>
+<vertex x="0.147" y="0.969"/>
+<vertex x="0.157" y="0.999"/>
+<vertex x="0.167" y="1.019"/>
+<vertex x="0.187" y="1.049"/>
+<vertex x="0.227" y="1.079"/>
+<vertex x="0.267" y="1.099"/>
+<vertex x="0.317" y="1.109"/>
+<vertex x="0.357" y="1.119"/>
+<vertex x="0.417" y="1.119"/>
+<vertex x="0.437" y="1.109"/>
+<vertex x="0.447" y="1.109"/>
+<vertex x="0.437" y="1.119"/>
+<vertex x="0.397" y="1.149"/>
+<vertex x="0.257" y="1.219"/>
+<vertex x="0.167" y="1.239"/>
+<vertex x="0.067" y="1.239"/>
+<vertex x="-0.043" y="1.219"/>
+<vertex x="-0.153" y="1.159"/>
+<vertex x="-0.243" y="1.089"/>
+<vertex x="-0.293" y="1.009"/>
+<vertex x="-0.323" y="0.919"/>
+<vertex x="-0.323" y="0.839"/>
+<vertex x="-0.303" y="0.749"/>
+<vertex x="-0.253" y="0.659"/>
+<vertex x="-0.183" y="0.579"/>
+<vertex x="-0.103" y="0.489"/>
+<vertex x="-0.033" y="0.419"/>
+<vertex x="-0.003" y="0.339"/>
+<vertex x="-0.003" y="0.269"/>
+<vertex x="-0.023" y="0.209"/>
+<vertex x="-0.063" y="0.159"/>
+<vertex x="-0.123" y="0.119"/>
+<vertex x="-0.203" y="0.099"/>
+<vertex x="-0.283" y="0.099"/>
+<vertex x="-0.333" y="0.109"/>
+<vertex x="-0.383" y="0.129"/>
+<vertex x="-0.443" y="0.189"/>
+<vertex x="-0.463" y="0.219"/>
+<vertex x="-0.473" y="0.249"/>
+<vertex x="-0.473" y="0.289"/>
+<vertex x="-0.463" y="0.319"/>
+<vertex x="-0.403" y="0.379"/>
+<vertex x="-0.373" y="0.389"/>
+<vertex x="-0.333" y="0.409"/>
+<vertex x="-0.323" y="0.419"/>
+<vertex x="-0.363" y="0.439"/>
+<vertex x="-0.483" y="0.439"/>
+<vertex x="-0.543" y="0.429"/>
+<vertex x="-0.593" y="0.419"/>
+<vertex x="-0.643" y="0.399"/>
+<vertex x="-0.683" y="0.369"/>
+<vertex x="-0.733" y="0.329"/>
+<vertex x="-0.793" y="0.229"/>
+<vertex x="-0.813" y="0.159"/>
+<vertex x="-0.823" y="0.079"/>
+<vertex x="-0.823" y="-1.291"/>
+<vertex x="-0.773" y="-1.241"/>
+<vertex x="-0.743" y="-1.191"/>
+<vertex x="-0.693" y="-1.141"/>
+<vertex x="-0.643" y="-1.081"/>
+<vertex x="-0.523" y="-0.961"/>
+<vertex x="-0.403" y="-0.821"/>
+<vertex x="-0.303" y="-0.721"/>
+<vertex x="-0.203" y="-0.661"/>
+<vertex x="-0.143" y="-0.651"/>
+<vertex x="0.047" y="-0.651"/>
+<vertex x="0.167" y="-0.631"/>
+<vertex x="0.277" y="-0.601"/>
+<vertex x="0.377" y="-0.561"/>
+<vertex x="0.477" y="-0.501"/>
+<vertex x="0.557" y="-0.431"/>
+<vertex x="0.637" y="-0.351"/>
+<vertex x="0.707" y="-0.261"/>
+<vertex x="0.807" y="-0.081"/>
+<vertex x="0.857" y="0.109"/>
+<vertex x="0.867" y="0.279"/>
+<vertex x="0.837" y="0.439"/>
+<vertex x="0.787" y="0.589"/>
+<vertex x="0.717" y="0.699"/>
+<vertex x="0.637" y="0.789"/>
+</polygon>
+</package>
+<package name="SFE_LOGO_FLAME_INTERNAL_0.05">
+<polygon width="0.0254" layer="15">
+<vertex x="0.288" y="0.437"/>
+<vertex x="0.288" y="0.367"/>
+<vertex x="0.268" y="0.347"/>
+<vertex x="0.208" y="0.347"/>
+<vertex x="0.148" y="0.377"/>
+<vertex x="0.108" y="0.417"/>
+<vertex x="0.088" y="0.447"/>
+<vertex x="0.088" y="0.517"/>
+<vertex x="0.098" y="0.537"/>
+<vertex x="0.118" y="0.557"/>
+<vertex x="0.138" y="0.567"/>
+<vertex x="0.168" y="0.577"/>
+<vertex x="0.218" y="0.577"/>
+<vertex x="0.208" y="0.587"/>
+<vertex x="0.168" y="0.607"/>
+<vertex x="0.138" y="0.617"/>
+<vertex x="0.098" y="0.627"/>
+<vertex x="0.028" y="0.627"/>
+<vertex x="-0.012" y="0.617"/>
+<vertex x="-0.072" y="0.587"/>
+<vertex x="-0.122" y="0.537"/>
+<vertex x="-0.132" y="0.517"/>
+<vertex x="-0.142" y="0.487"/>
+<vertex x="-0.142" y="0.417"/>
+<vertex x="-0.132" y="0.387"/>
+<vertex x="-0.122" y="0.367"/>
+<vertex x="-0.062" y="0.287"/>
+<vertex x="-0.002" y="0.227"/>
+<vertex x="0.008" y="0.207"/>
+<vertex x="0.008" y="0.127"/>
+<vertex x="-0.002" y="0.107"/>
+<vertex x="-0.022" y="0.087"/>
+<vertex x="-0.062" y="0.067"/>
+<vertex x="-0.102" y="0.057"/>
+<vertex x="-0.112" y="0.057"/>
+<vertex x="-0.162" y="0.067"/>
+<vertex x="-0.182" y="0.077"/>
+<vertex x="-0.212" y="0.107"/>
+<vertex x="-0.222" y="0.127"/>
+<vertex x="-0.222" y="0.177"/>
+<vertex x="-0.192" y="0.207"/>
+<vertex x="-0.172" y="0.217"/>
+<vertex x="-0.162" y="0.227"/>
+<vertex x="-0.252" y="0.227"/>
+<vertex x="-0.322" y="0.197"/>
+<vertex x="-0.362" y="0.157"/>
+<vertex x="-0.382" y="0.117"/>
+<vertex x="-0.4064" y="0.0508"/>
+<vertex x="-0.4064" y="-0.635"/>
+<vertex x="-0.132" y="-0.333"/>
+<vertex x="-0.092" y="-0.313"/>
+<vertex x="-0.052" y="-0.303"/>
+<vertex x="0.038" y="-0.303"/>
+<vertex x="0.108" y="-0.293"/>
+<vertex x="0.168" y="-0.273"/>
+<vertex x="0.228" y="-0.243"/>
+<vertex x="0.258" y="-0.223"/>
+<vertex x="0.328" y="-0.153"/>
+<vertex x="0.388" y="-0.073"/>
+<vertex x="0.408" y="-0.033"/>
+<vertex x="0.418" y="-0.003"/>
+<vertex x="0.428" y="0.037"/>
+<vertex x="0.438" y="0.097"/>
+<vertex x="0.438" y="0.167"/>
+<vertex x="0.428" y="0.227"/>
+<vertex x="0.418" y="0.267"/>
+<vertex x="0.408" y="0.297"/>
+<vertex x="0.378" y="0.357"/>
+<vertex x="0.358" y="0.377"/>
+<vertex x="0.298" y="0.427"/>
+</polygon>
+</package>
+<package name="FIDUCIAL-0.2MM">
+<description>&lt;h3&gt;Fiducial - Circle, 0.2mm&lt;/h3&gt;
+&lt;p&gt;Point-of-reference for pick-and-place machines and other optical instruments.&lt;/p&gt;
+&lt;p&gt;Devices using:
+&lt;ul&gt;&lt;li&gt;FIDUCIAL&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</description>
+<smd name="1" x="0" y="0" dx="0.2" dy="0.2" layer="1" roundness="100" stop="no" cream="no"/>
+<circle x="0" y="0" radius="0.06" width="0.1524" layer="29"/>
+</package>
 </packages>
 <symbols>
 <symbol name="FRAME-LETTER">
@@ -18105,6 +18285,16 @@ We've spent an enormous amount of time creating and checking these footprints an
 <technology name=""/>
 </technologies>
 </device>
+<device name=".1_INCH_INTERNAL" package="SEF_LOGO_FLAME_INTERNAL_.1">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name=".05_INCH_INTERNAL" package="SFE_LOGO_FLAME_INTERNAL_0.05">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
 </devices>
 </deviceset>
 <deviceset name="FIDUCIAL" prefix="FD">
@@ -18120,6 +18310,11 @@ We've spent an enormous amount of time creating and checking these footprints an
 </technologies>
 </device>
 <device name="UFIDUCIAL" package="FIDUCIAL-MICRO">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="0.2MM" package="FIDUCIAL-0.2MM">
 <technologies>
 <technology name=""/>
 </technologies>
@@ -19877,46 +20072,70 @@ We've spent an enormous amount of time creating and checking these footprints an
 &lt;b&gt;Licensing:&lt;/b&gt; CC v3.0 Share-Alike You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
 <packages>
 <package name="LED-0603">
-<wire x1="0.46" y1="0.17" x2="0" y2="0.17" width="0.2032" layer="21"/>
-<wire x1="-0.46" y1="0.17" x2="0" y2="0.17" width="0.2032" layer="21"/>
-<wire x1="0" y1="0.17" x2="0.2338" y2="-0.14" width="0.2032" layer="21"/>
-<wire x1="-0.0254" y1="0.1546" x2="-0.2184" y2="-0.14" width="0.2032" layer="21"/>
-<smd name="C" x="0" y="0.75" dx="0.8" dy="0.8" layer="1"/>
-<smd name="A" x="0" y="-0.75" dx="0.8" dy="0.8" layer="1"/>
-<text x="-0.6985" y="-0.889" size="0.4064" layer="25" rot="R90">&gt;NAME</text>
-<text x="1.0795" y="-1.016" size="0.4064" layer="27" rot="R90">&gt;VALUE</text>
+<description>&lt;B&gt;LED 0603 SMT&lt;/B&gt;&lt;p&gt;
+0603, surface mount.
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 2&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.075inch &lt;/li&gt;
+&lt;li&gt;Area: 0.06" x 0.03"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;LED - BLUE&lt;/li&gt;</description>
+<smd name="C" x="0.877" y="0" dx="1" dy="1" layer="1" roundness="30" rot="R270"/>
+<smd name="A" x="-0.877" y="0" dx="1" dy="1" layer="1" roundness="30" rot="R270"/>
+<text x="0" y="0.635" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-0.635" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<wire x1="1.5875" y1="0.47625" x2="1.5875" y2="-0.47625" width="0.2032" layer="21"/>
+<wire x1="0.15875" y1="0.47625" x2="0.15875" y2="0" width="0.127" layer="51"/>
+<wire x1="0.15875" y1="0" x2="0.15875" y2="-0.47625" width="0.127" layer="51"/>
+<wire x1="0.15875" y1="0" x2="-0.15875" y2="0.3175" width="0.127" layer="51"/>
+<wire x1="0.15875" y1="0" x2="-0.15875" y2="-0.3175" width="0.127" layer="51"/>
 </package>
 <package name="LED-1206">
-<wire x1="-1" y1="1" x2="-2.4" y2="1" width="0.2032" layer="21"/>
-<wire x1="-2.4" y1="1" x2="-2.4" y2="-1" width="0.2032" layer="21"/>
-<wire x1="-2.4" y1="-1" x2="-1" y2="-1" width="0.2032" layer="21"/>
-<wire x1="1" y1="1" x2="2.4" y2="1" width="0.2032" layer="21"/>
-<wire x1="2.4" y1="1" x2="2.4" y2="-1" width="0.2032" layer="21"/>
-<wire x1="2.4" y1="-1" x2="1" y2="-1" width="0.2032" layer="21"/>
-<wire x1="0.3" y1="0.7" x2="0.3" y2="0" width="0.2032" layer="21"/>
-<wire x1="0.3" y1="0" x2="0.3" y2="-0.7" width="0.2032" layer="21"/>
-<wire x1="0.3" y1="0" x2="-0.3" y2="0.6" width="0.2032" layer="21"/>
-<wire x1="-0.3" y1="0.6" x2="-0.3" y2="-0.6" width="0.2032" layer="21"/>
-<wire x1="-0.3" y1="-0.6" x2="0.3" y2="0" width="0.2032" layer="21"/>
+<description>&lt;h3&gt;LED 1206 SMT&lt;/h3&gt;
+
+1206, surface mount. 
+
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 2&lt;/li&gt;
+&lt;li&gt;Pin pitch: &lt;/li&gt;
+&lt;li&gt;Area: 0.125" x 0.06"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;LED&lt;/li&gt;&lt;/ul&gt;</description>
+<wire x1="2.4" y1="0.6825" x2="2.4" y2="-0.6825" width="0.2032" layer="21"/>
 <smd name="A" x="-1.5" y="0" dx="1.2" dy="1.4" layer="1"/>
 <smd name="C" x="1.5" y="0" dx="1.2" dy="1.4" layer="1"/>
-<text x="-0.889" y="1.397" size="0.4064" layer="25">&gt;NAME</text>
-<text x="-1.016" y="-1.778" size="0.4064" layer="27">&gt;VALUE</text>
+<text x="0" y="0.9525" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-0.9525" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<wire x1="0.65375" y1="0.6825" x2="0.65375" y2="-0.6825" width="0.2032" layer="51"/>
+<wire x1="0.635" y1="0" x2="0.15875" y2="0.47625" width="0.2032" layer="51"/>
+<wire x1="0.635" y1="0" x2="0.15875" y2="-0.47625" width="0.2032" layer="51"/>
+</package>
+<package name="LED-1206-HIDDENSILK">
+<wire x1="0.6474" y1="0.6825" x2="0.6474" y2="-0.6825" width="0.2032" layer="21"/>
+<smd name="A" x="-1.5" y="0" dx="1.2" dy="1.4" layer="1"/>
+<smd name="C" x="1.5" y="0" dx="1.2" dy="1.4" layer="1"/>
+<text x="0" y="0.9525" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-0.9525" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<wire x1="0.65375" y1="0.6825" x2="0.65375" y2="-0.6825" width="0.2032" layer="51"/>
+<wire x1="0.635" y1="0" x2="0.15875" y2="0.47625" width="0.2032" layer="51"/>
+<wire x1="0.635" y1="0" x2="0.15875" y2="-0.47625" width="0.2032" layer="51"/>
 </package>
 </packages>
 <symbols>
 <symbol name="LED">
+<description>&lt;h3&gt;LED&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;</description>
 <wire x1="1.27" y1="0" x2="0" y2="-2.54" width="0.254" layer="94"/>
 <wire x1="0" y1="-2.54" x2="-1.27" y2="0" width="0.254" layer="94"/>
 <wire x1="1.27" y1="-2.54" x2="0" y2="-2.54" width="0.254" layer="94"/>
 <wire x1="0" y1="-2.54" x2="-1.27" y2="-2.54" width="0.254" layer="94"/>
-<wire x1="1.27" y1="0" x2="0" y2="0" width="0.254" layer="94"/>
-<wire x1="0" y1="0" x2="-1.27" y2="0" width="0.254" layer="94"/>
-<wire x1="0" y1="0" x2="0" y2="-2.54" width="0.1524" layer="94"/>
+<wire x1="1.27" y1="0" x2="-1.27" y2="0" width="0.254" layer="94"/>
 <wire x1="-2.032" y1="-0.762" x2="-3.429" y2="-2.159" width="0.1524" layer="94"/>
 <wire x1="-1.905" y1="-1.905" x2="-3.302" y2="-3.302" width="0.1524" layer="94"/>
-<text x="3.556" y="-4.572" size="1.778" layer="95" rot="R90">&gt;NAME</text>
-<text x="5.715" y="-4.572" size="1.778" layer="96" rot="R90">&gt;VALUE</text>
+<text x="-3.429" y="-4.572" size="1.778" layer="95" font="vector" rot="R90">&gt;NAME</text>
+<text x="1.905" y="-4.572" size="1.778" layer="96" font="vector" rot="R90" align="top-left">&gt;VALUE</text>
 <pin name="C" x="0" y="-5.08" visible="off" length="short" direction="pas" rot="R90"/>
 <pin name="A" x="0" y="2.54" visible="off" length="short" direction="pas" rot="R270"/>
 <polygon width="0.1524" layer="94">
@@ -19933,10 +20152,20 @@ We've spent an enormous amount of time creating and checking these footprints an
 </symbols>
 <devicesets>
 <deviceset name="LED-RED" prefix="D" uservalue="yes">
-<description>Assorted Red LEDs&lt;br&gt;
-LilyPad 1206- DIO-09912&lt;br&gt;
-1206- DIO-00809&lt;br&gt;
-0603- DIO-00819</description>
+<description>&lt;h3&gt;Red SMD LED&lt;/h3&gt;
+&lt;p&gt;Used in manufacturing of most products at SparkFun&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Packages:&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;0603&lt;/b&gt; - SMD 0603 package &lt;a href="http://docs.avagotech.com/docs/AV02-0551EN"&gt;[Product Link]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;0603 SMART&lt;/b&gt; - SMD 0603 SMART package ( more efficient and expensive)&lt;a href="http://www.osram-os.com/Graphics/XPic2/00077099_0.pdf"&gt;[Product Link]&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; 1206&lt;/b&gt; - SMD1206  package &lt;a href="https://www.sparkfun.com/datasheets/DevTools/LilyPad/Q150OVS4.pdff"&gt;[Product Link]&lt;/li&gt;
+&lt;ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;SparkFun Products:&lt;/b&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=”https://www.sparkfun.com/products/821”&gt;Pro Mini 328 -5V&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=”https://www.sparkfun.com/products/12757”&gt;RedBoard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=”https://www.sparkfun.com/products/13613”&gt;IOIO-OTG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
 <gates>
 <gate name="G$1" symbol="LED" x="0" y="0"/>
 </gates>
@@ -19960,20 +20189,31 @@ LilyPad 1206- DIO-09912&lt;br&gt;
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="DIO-00809"/>
+<attribute name="PROD_ID" value="DIO-09912"/>
 <attribute name="VALUE" value="RED" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="LILYPAD" package="LED-1206">
+<device name="0603-SMART" package="LED-0603">
 <connects>
 <connect gate="G$1" pin="A" pad="A"/>
 <connect gate="G$1" pin="C" pad="C"/>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="DIO-09912"/>
-<attribute name="VALUE" value="RED" constant="no"/>
+<attribute name="PROD_ID" value="DIO-11154" constant="no"/>
+<attribute name="VALUE" value="Red" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="_HIDDENSILK" package="LED-1206-HIDDENSILK">
+<connects>
+<connect gate="G$1" pin="A" pad="A"/>
+<connect gate="G$1" pin="C" pad="C"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="DIO-09912" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -20930,7 +21170,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="165.608" y="11.43" size="2.54" layer="94" font="vector">Andrew England</text>
-<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v01</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 <wire x1="0" y1="104.14" x2="60.96" y2="104.14" width="0.1524" layer="97" style="longdash"/>
 <wire x1="60.96" y1="104.14" x2="114.3" y2="104.14" width="0.1524" layer="97" style="longdash"/>
 <wire x1="114.3" y1="104.14" x2="121.92" y2="104.14" width="0.1524" layer="97" style="longdash"/>
@@ -20945,11 +21185,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="2.54" y="99.06" size="2.54" layer="97" font="vector">Connections</text>
 <text x="124.46" y="99.06" size="2.54" layer="97" font="vector">Schmitt trigger</text>
 <text x="116.84" y="167.64" size="1.778" layer="97" font="vector">Half-wave precision rectifier with gain of approx 2</text>
-<text x="2.54" y="96.52" size="1.778" layer="97" font="vector">Vcc range between 2.7V and 3.6V.</text>
+<text x="2.54" y="96.52" size="1.778" layer="97" font="vector">Supply Voltage: 2.7-3.6V.</text>
 <wire x1="121.92" y1="53.34" x2="121.92" y2="104.14" width="0.1524" layer="97" style="longdash"/>
 <wire x1="0" y1="53.34" x2="121.92" y2="53.34" width="0.1524" layer="97" style="longdash"/>
 <text x="2.54" y="48.26" size="2.54" layer="97" font="vector">ADC-to-I2C</text>
-<text x="73.66" y="7.62" size="1.778" layer="97" font="vector">Address: 0x48</text>
+<text x="20.32" y="7.62" size="1.778" layer="97" font="vector">7-bit Unshifted I2CAddress: 0x48</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
@@ -21097,9 +21337,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="NAME" x="222.25" y="120.8786" size="1.778" layer="95" font="vector"/>
 <attribute name="VALUE" x="222.25" y="116.078" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="R19" gate="G$1" x="96.52" y="119.38" smashed="yes">
-<attribute name="NAME" x="92.71" y="120.8786" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="92.71" y="116.078" size="1.778" layer="96" font="vector"/>
+<instance part="R19" gate="G$1" x="91.44" y="121.92" smashed="yes" rot="R270">
+<attribute name="NAME" x="92.9386" y="125.73" size="1.778" layer="95" font="vector" rot="R270"/>
+<attribute name="VALUE" x="88.138" y="125.73" size="1.778" layer="96" font="vector" rot="R270"/>
 </instance>
 <instance part="FID3" gate="G$1" x="218.44" y="27.94" smashed="yes"/>
 <instance part="FID4" gate="G$1" x="220.98" y="27.94" smashed="yes"/>
@@ -21173,7 +21413,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="VALUE" x="20.32" y="91.694" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="C5" gate="G$1" x="15.24" y="25.4"/>
-<instance part="TP1" gate="G$1" x="38.1" y="27.94" rot="R180"/>
+<instance part="TP1" gate="G$1" x="38.1" y="27.94" smashed="yes" rot="R180">
+<attribute name="NAME" x="40.64" y="27.432" size="1.778" layer="95" font="vector" rot="R180"/>
+</instance>
 <instance part="H1" gate="G$1" x="223.52" y="30.48"/>
 <instance part="H2" gate="G$1" x="223.52" y="27.94"/>
 <instance part="U2" gate="G1" x="78.74" y="129.54"/>
@@ -21305,8 +21547,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <net name="AUDIO" class="0">
 <segment>
 <pinref part="R19" gate="G$1" pin="2"/>
-<wire x1="101.6" y1="119.38" x2="104.14" y2="119.38" width="0.1524" layer="91"/>
-<label x="104.14" y="119.38" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="91.44" y1="116.84" x2="91.44" y2="114.3" width="0.1524" layer="91"/>
+<label x="91.44" y="114.3" size="1.27" layer="95" font="vector" rot="R270" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="AIN0"/>
@@ -21511,7 +21753,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <junction x="91.44" y="129.54"/>
 <pinref part="C4" gate="G$1" pin="1"/>
 <pinref part="R19" gate="G$1" pin="1"/>
-<wire x1="91.44" y1="129.54" x2="91.44" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="129.54" x2="91.44" y2="127" width="0.1524" layer="91"/>
 <pinref part="S1" gate="G$1" pin="3"/>
 <wire x1="99.06" y1="157.48" x2="96.52" y2="157.48" width="0.1524" layer="91"/>
 <pinref part="U2" gate="G1" pin="OUT"/>
