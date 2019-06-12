@@ -5,14 +5,9 @@ SparkFun gator:microphone - micro:bit Accessory Board
 
 [*SparkFun gator:microphone - micro:bit Accessory Board (SEN-15289)*](https://www.sparkfun.com/products/15289)  
 
-(Modify Description)
-Electret microphone with multiple outputs.
+An I<sup>2</sup>C sensor for detecting sound with an electret microphone. The sensor measures the actual audio, amplitude envelope, and sound indication with an ADC (ADS1015).
 
-* First output is the actual audio
-* Second output is the amplitude envelope
-* Third output is a binary "sound present" indication - high while sound is present, low otherwise.
-
-Design and firmware files for the [VKey Voltage Keypad](https://www.sparkfun.com/products/12080).
+Instead of using pin connections or requiring soldering, this product provides connection pads for a more kid freindly experience with alligator clips. The design intention of this product is to be used with the [gato:bit (v2)](https://www.sparkfun.com/products/15162), and the [micro:bit development board](https://www.sparkfun.com/products/14208).
 
 Repository Contents
 -------------------
@@ -33,7 +28,7 @@ This product is _**open source**_!
 
 Please review the LICENSE.md file for license information. 
 
-If you have any questions or concerns on licensing, please visit the [SparkFun Forum](https://forum.sparkfun.com/index.php) and post a topic. For more general questions related to our gator boards, please visit this section of the forum: [SparkFun Forums: Educational Products](https://forum.sparkfun.com/viewforum.php?f=155)
+If you have any questions or concerns on licensing, please visit the [SparkFun Forum](https://forum.sparkfun.com/index.php) and post a topic. For more general questions related to our gator boards, please visit this section of the forum: [Gator Products](https://forum.sparkfun.com/viewforum.php?f=162).
 
 Distributed as-is; no warranty is given.
 
